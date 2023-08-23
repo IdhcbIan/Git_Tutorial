@@ -64,7 +64,7 @@ $ git clone <url> - clones repo of specified URL
 
 -----// Pushing to github //-------------
 
-$ git remote add origin https://github.com/IdhcbIan/tets.git
+$ git remote add origin [Link]
  - Get remote origin 
 
 $ git [Branch] -a     
